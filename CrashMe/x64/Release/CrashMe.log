@@ -1,0 +1,11 @@
+﻿  CrashMe.cpp
+C:\Users\joaocarvalho\source\repos\CrashMe\CrashMe\CrashMe.cpp(2,9): warning C4005: 'UNICODE': macro redefinition
+      C:\Users\joaocarvalho\source\repos\CrashMe\CrashMe\CrashMe.cpp(2,9):
+      'UNICODE' previously declared on the command line
+  
+  Generating code
+  2 of 3 functions (66.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CrashMe.vcxproj -> C:\Users\joaocarvalho\source\repos\CrashMe\x64\Release\CrashMe.exe
